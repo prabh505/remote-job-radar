@@ -1,0 +1,41 @@
+name: Daily Remote Job Brief
+
+on:
+  schedule:
+    # 09:00 IST = 03:30 UTC. GitHub cron is always UTC.
+    - cron: "30 3 * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write   # to commit seen.json
+  issues: write     # to open the daily brief as an issue
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the radar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # Optional — only set these if you want email as well as the issue.
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+        run: python job_radar.py
+
+      - name: Save what was sent
+        run: |
+          git config user.name "job-radar"
+          git config user.email "actions@github.com"
+          git add seen.json latest-brief.md
+          git diff --staged --quiet || git commit -m "brief: $(date -u +%Y-%m-%d)"
+          git push
