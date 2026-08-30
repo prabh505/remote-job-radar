@@ -1,70 +1,54 @@
 # Remote job brief — 2026-08-30
 
-**8** new matches from 242 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**6** new matches from 242 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) — Kruger NearShore LLC - Rekluti
+### 1. [Removalist Offsider](https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059) — Kent Removals &amp; Storage
 
-`RemoteOK` · posted 8d ago · location unspecified · match score 34
-
-**Why it fits:** matches on python, sql, full stack, backend, git.
-
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
-
-### 2. [Bell Captain](https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107) — Four Seasons
-
-`RemoteOK` · posted 5d ago · Macau, · match score 23
-
-**Why it fits:** matches on rag, llm, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 3. [Protocol Review Specialist](https://www.workingnomads.com/job/go/1783105/) — Sun Coast Sciences
-
-`Working Nomads` · posted 19d ago · Global · match score 23
-
-**Why it fits:** matches on rag, api, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 4. [General Interest Position](https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166) — Coogee Chemicals
-
-`RemoteOK` · posted 3d ago · Kwinana Beach, · match score 17
-
-**Why it fits:** matches on rag, rest, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 5. [Data Analyst (No Experience Required)](https://www.workingnomads.com/job/go/1821524/) — Peroptyx
-
-`Working Nomads` · posted 1d ago · Germany · match score 16
-
-**Why it fits:** matches on data analyst, git.
-
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
-
-### 6. [Sourcer Private Destinations](https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172) — Royal Caribbean Group
-
-`RemoteOK` · posted 2d ago · Nassau, · match score 13
-
-**Why it fits:** matches on rag, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 7. [Retail Store Associate](https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073) — Rowan
-
-`RemoteOK` · posted 7d ago · Chicago, IL · match score 13
-
-**Why it fits:** matches on rag, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 8. [Estimator Brisbane](https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047) — McNab
-
-`RemoteOK` · posted 8d ago · West End, · match score 13
+`RemoteOK` · posted 9d ago · Albury, · match score 13
 
 **Why it fits:** matches on rag, git.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [Legal File Clerk (Philippines)](https://www.workingnomads.com/job/go/1822473/) — Sneed & Mitchell LLP
+
+`Working Nomads` · posted 1d ago · Philippines · match score 13
+
+**Why it fits:** matches on rag, git.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 3. [Quality Assurance Rater - German (DE)](https://www.workingnomads.com/job/go/1804584/) — TELUS Digital
+
+`Working Nomads` · posted 9d ago · Germany · match score 13
+
+**Why it fits:** matches on rag, git.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 4. [AI Content Analyst (No Experience Required)](https://www.workingnomads.com/job/go/1821502/) — Peroptyx
+
+`Working Nomads` · posted 1d ago · South Korea · match score 12
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+
+### 5. [Quality Assurance Rater - French (FR)](https://www.workingnomads.com/job/go/1804593/) — TELUS Digital
+
+`Working Nomads` · posted 9d ago · France · match score 12
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+
+### 6. [Quality Assurance Rater - Spanish (ES)](https://www.workingnomads.com/job/go/1804594/) — TELUS Digital
+
+`Working Nomads` · posted 9d ago · Spain · match score 12
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
 
 ---
 
