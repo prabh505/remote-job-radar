@@ -1,54 +1,8 @@
-# Remote job brief — 2026-08-30
+# Remote job brief — 2026-08-31
 
-**6** new matches from 242 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 241 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Removalist Offsider](https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059) — Kent Removals &amp; Storage
-
-`RemoteOK` · posted 9d ago · Albury, · match score 13
-
-**Why it fits:** matches on rag, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Legal File Clerk (Philippines)](https://www.workingnomads.com/job/go/1822473/) — Sneed & Mitchell LLP
-
-`Working Nomads` · posted 1d ago · Philippines · match score 13
-
-**Why it fits:** matches on rag, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 3. [Quality Assurance Rater - German (DE)](https://www.workingnomads.com/job/go/1804584/) — TELUS Digital
-
-`Working Nomads` · posted 9d ago · Germany · match score 13
-
-**Why it fits:** matches on rag, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 4. [AI Content Analyst (No Experience Required)](https://www.workingnomads.com/job/go/1821502/) — Peroptyx
-
-`Working Nomads` · posted 1d ago · South Korea · match score 12
-
-**Why it fits:** matches on machine learning, git.
-
-**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
-
-### 5. [Quality Assurance Rater - French (FR)](https://www.workingnomads.com/job/go/1804593/) — TELUS Digital
-
-`Working Nomads` · posted 9d ago · France · match score 12
-
-**Why it fits:** matches on machine learning, git.
-
-**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
-
-### 6. [Quality Assurance Rater - Spanish (ES)](https://www.workingnomads.com/job/go/1804594/) — TELUS Digital
-
-`Working Nomads` · posted 9d ago · Spain · match score 12
-
-**Why it fits:** matches on machine learning, git.
-
-**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
