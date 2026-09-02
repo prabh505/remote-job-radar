@@ -1,8 +1,22 @@
-# Remote job brief — 2026-09-01
+# Remote job brief — 2026-09-02
 
-**0** new matches from 244 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 242 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Backend Engineer - Platform - Stacks | Ireland | Remote](https://weworkremotely.com/remote-jobs/grafana-labs-backend-engineer-platform-stacks-ireland-remote) — Grafana Labs
+
+`We Work Remotely` · posted today · Anywhere in the World · match score 18
+
+**Why it fits:** matches on backend, api.
+
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
+
+### 2. [Kitchen Porter W Edinburgh](https://remoteOK.com/remote-jobs/remote-kitchen-porter-w-edinburgh-w-hotels-1137237) — W Hotels
+
+`RemoteOK` · posted 1d ago · Edinburgh, · match score 15
+
+**Why it fits:** matches on rag, api, rest.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
