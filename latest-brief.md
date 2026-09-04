@@ -1,8 +1,30 @@
-# Remote job brief — 2026-09-03
+# Remote job brief — 2026-09-04
 
-**0** new matches from 242 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**3** new matches from 241 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Application Security Lead](https://weworkremotely.com/remote-jobs/hightouch-application-security-lead) — Hightouch
+
+`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 27
+
+**Why it fits:** matches on rag, backend, rest, api.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [Software engineer](https://www.workingnomads.com/job/go/1833624/) — Sticker Mule
+
+`Working Nomads` · posted today · Global · match score 17
+
+**Why it fits:** matches on full-stack, react.
+
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
+
+### 3. [Data Entry Clerk](https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286) — Astrek Careers
+
+`RemoteOK` · posted 1d ago · location unspecified · match score 14
+
+**Why it fits:** matches on rest, git.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
