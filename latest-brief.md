@@ -1,30 +1,22 @@
-# Remote job brief — 2026-09-04
+# Remote job brief — 2026-09-05
 
-**3** new matches from 241 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 232 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Application Security Lead](https://weworkremotely.com/remote-jobs/hightouch-application-security-lead) — Hightouch
+### 1. [AI/ML Engineer for an AI-Driven E-Commerce Platform](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform) — Toptal
 
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 27
+`We Work Remotely` · posted 18d ago · Anywhere in the World · match score 48
 
-**Why it fits:** matches on rag, backend, rest, api.
+**Why it fits:** matches on llm, fine-tuning, node.js, full-stack, react.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
-### 2. [Software engineer](https://www.workingnomads.com/job/go/1833624/) — Sticker Mule
+### 2. [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) — Coalition Technologies
 
-`Working Nomads` · posted today · Global · match score 17
+`Remotive` · posted 2d ago · Worldwide · match score 21
 
-**Why it fits:** matches on full-stack, react.
+**Why it fits:** matches on rag, git.
 
-**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
-
-### 3. [Data Entry Clerk](https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286) — Astrek Careers
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 14
-
-**Why it fits:** matches on rest, git.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
