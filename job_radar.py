@@ -262,7 +262,7 @@ def is_eligible(item):
     body = (item["description"] + " " + item["title"]).lower()
     location = item["location"].lower()
 
-    if any(b in title for b in TITLE_BLOCKERS):
+    if any(contains_keyword(title, b.strip()) for b in TITLE_BLOCKERS):
         return False, "senior/lead title"
     if any(b in body for b in BODY_BLOCKERS):
         return False, "work-authorization or unpaid"
@@ -270,9 +270,16 @@ def is_eligible(item):
         return False, "3+ years experience required"
     if any(b in location for b in LOCATION_BLOCKERS):
         return False, "region-locked away from India"
-    if not any(s in body for s in ELIGIBILITY_SIGNALS):
+    if not any(contains_keyword(body, s) for s in ELIGIBILITY_SIGNALS):
         return False, "no junior/intern/contract signal"
     return True, ""
+
+
+def contains_keyword(text, keyword):
+    """Substring match with word boundaries, so e.g. "rag" doesn't match inside
+    "beverage" or "storage"."""
+    pattern = r"(?<![a-z0-9])" + re.escape(keyword.strip()) + r"(?![a-z0-9])"
+    return re.search(pattern, text) is not None
 
 
 def score(item):
@@ -281,15 +288,15 @@ def score(item):
     total = 0
     matched = []
     for keyword, weight in SKILL_WEIGHTS.items():
-        if keyword in body:
-            hit = weight * 2 if keyword in title else weight
+        if contains_keyword(body, keyword):
+            hit = weight * 2 if contains_keyword(title, keyword) else weight
             total += hit
             matched.append(keyword)
     # bonus for India/worldwide-friendly locations
     if any(h in item["location"].lower() for h in ["worldwide", "anywhere", "india", "global", "asia"]):
         total += 8
     # bonus for explicit intern/junior in the title
-    if any(s in title for s in ["intern", "junior", "graduate", "entry"]):
+    if any(contains_keyword(title, s) for s in ["intern", "junior", "graduate", "entry"]):
         total += 10
     return total, sorted(set(matched), key=lambda k: -SKILL_WEIGHTS[k])[:6]
 
