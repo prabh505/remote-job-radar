@@ -1,22 +1,14 @@
-# Remote job brief — 2026-09-05
+# Remote job brief — 2026-09-06
 
-**2** new matches from 232 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 220 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [AI/ML Engineer for an AI-Driven E-Commerce Platform](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform) — Toptal
+### 1. [Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307) — Empire Assets
 
-`We Work Remotely` · posted 18d ago · Anywhere in the World · match score 48
+`RemoteOK` · posted 1d ago · location unspecified · match score 16
 
-**Why it fits:** matches on llm, fine-tuning, node.js, full-stack, react.
+**Why it fits:** matches on git, rest, api.
 
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) — Coalition Technologies
-
-`Remotive` · posted 2d ago · Worldwide · match score 21
-
-**Why it fits:** matches on rag, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
