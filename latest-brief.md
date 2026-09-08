@@ -1,38 +1,8 @@
-# Remote job brief — 2026-09-07
+# Remote job brief — 2026-09-08
 
-**4** new matches from 229 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 241 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)](https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d) — Charisma-tec
-
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 40
-
-**Why it fits:** matches on python, node.js, c++, git, rest.
-
-**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
-
-### 2. [Sales Jedi](https://remotive.com/remote-jobs/sales/sales-jedi-2091088) — Creative Force
-
-`Remotive` · posted 1d ago · Europe · match score 15
-
-**Why it fits:** matches on rag, rest, git.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 3. [SaaS Product Support Jedi](https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087) — Creative Force
-
-`Remotive` · posted 1d ago · Europe, EMEA, UK, Germany, France, European timezones · match score 15
-
-**Why it fits:** matches on rag, git, api.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 4. [Digital Design Diagram Creators](https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators) — Summa Linguae Technologies
-
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 12
-
-**Why it fits:** matches on git.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
