@@ -1,8 +1,14 @@
-# Remote job brief — 2026-09-14
+# Remote job brief — 2026-09-15
 
-**0** new matches from 231 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 232 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Junior Payroll Assistant](https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391) — Sleek
+
+`RemoteOK` · posted 1d ago · location unspecified · match score 12
+
+**Why it fits:** matches on git.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
