@@ -1,14 +1,8 @@
-# Remote job brief — 2026-09-17
+# Remote job brief — 2026-09-18
 
-**1** new match from 230 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 235 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Personalized Internet Ads Assessor - English - Remote](https://www.workingnomads.com/job/go/1867454/) — TELUS Digital
-
-`Working Nomads` · posted today · USA · match score 14
-
-**Why it fits:** matches on git, rest.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
