@@ -1,20 +1,12 @@
-# Remote job brief — 2026-09-19
+# Remote job brief — 2026-09-20
 
-**2** new matches from 241 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 244 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Quality Assurance Rater - Spanish (Spain)](https://www.workingnomads.com/job/go/1873858/) — TELUS Digital
+### 1. [Software Deployment Engineer](https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408) — KPI Solutions
 
-`Working Nomads` · posted today · Global · match score 20
+`RemoteOK` · posted 1d ago · Cincinnati · match score 16
 
-**Why it fits:** matches on machine learning, git.
-
-**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
-
-### 2. [Phone Sales Agent - Restock](https://www.workingnomads.com/job/go/1874420/) — Sun Coast Sciences
-
-`Working Nomads` · posted today · Philippines, Nicaragua, South Africa, Guatemala · match score 17
-
-**Why it fits:** matches on rag, rest, git.
+**Why it fits:** matches on llm, sql.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
