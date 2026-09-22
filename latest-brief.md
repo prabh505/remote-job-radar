@@ -1,8 +1,14 @@
-# Remote job brief — 2026-09-21
+# Remote job brief — 2026-09-22
 
-**0** new matches from 254 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 250 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Virtual Bookkeeper](https://www.workingnomads.com/job/go/1880339/) — Strong Roots Accounting
+
+`Working Nomads` · posted today · Anywhere in the world · match score 14
+
+**Why it fits:** matches on backend, api.
+
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
 
 ---
 
