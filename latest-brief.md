@@ -1,8 +1,10 @@
-# Remote job brief — 2026-09-26
+# Remote job brief — 2026-09-27
 
-**0** new matches from 255 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 194 postings across 5 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
 Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+
+> Boards that did not respond this run: Working Nomads.
 
 ---
 
