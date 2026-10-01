@@ -1,4 +1,4 @@
-# Remote job brief — 2026-09-30
+# Remote job brief — 2026-10-01
 
 **0** new matches from 244 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
