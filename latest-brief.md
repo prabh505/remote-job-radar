@@ -1,8 +1,14 @@
-# Remote job brief — 2026-10-04
+# Remote job brief — 2026-10-05
 
-**0** new matches from 244 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 248 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Software Developer AI Coding](https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding) — STEUART NUTRITION
+
+`We Work Remotely` · posted 11d ago · Anywhere in the World · match score 18
+
+**Why it fits:** matches on python, api.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
