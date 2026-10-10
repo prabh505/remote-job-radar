@@ -1,12 +1,12 @@
-# Remote job brief — 2026-10-09
+# Remote job brief — 2026-10-10
 
-**1** new match from 249 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 243 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Software Engineer - Developer Experience](https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience) — Dremio
+### 1. [Product Design Lead](https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474) — Fuel50
 
-`We Work Remotely` · posted 11d ago · Anywhere in the World · match score 37
+`RemoteOK` · posted 1d ago · location unspecified · match score 15
 
-**Why it fits:** matches on rag, python, sql, c++.
+**Why it fits:** matches on rag, api, git.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
