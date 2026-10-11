@@ -1,14 +1,14 @@
-# Remote job brief — 2026-10-10
+# Remote job brief — 2026-10-11
 
-**1** new match from 243 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 245 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Product Design Lead](https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474) — Fuel50
+### 1. [Junior Sales Development Representative IT Industry](https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480) — Huzzle
 
-`RemoteOK` · posted 1d ago · location unspecified · match score 15
+`RemoteOK` · posted 1d ago · location unspecified · match score 12
 
-**Why it fits:** matches on rag, api, git.
+**Why it fits:** matches on git.
 
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
