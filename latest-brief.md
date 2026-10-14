@@ -1,8 +1,14 @@
-# Remote job brief — 2026-10-13
+# Remote job brief — 2026-10-14
 
-**0** new matches from 234 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 238 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Web Developer (Fresh graduate welcome, WFH policy, on-job-training)](https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training) — HR Plus
+
+`We Work Remotely` · posted 14d ago · Anywhere in the World · match score 28
+
+**Why it fits:** matches on sql, git, api.
+
+**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
 
 ---
 
