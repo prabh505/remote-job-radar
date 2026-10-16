@@ -1,8 +1,14 @@
-# Remote job brief — 2026-10-15
+# Remote job brief — 2026-10-16
 
-**0** new matches from 235 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 229 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Analytics Engineer, Data](https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data) — Tailscale
+
+`We Work Remotely` · posted 16d ago · Anywhere in the World · match score 27
+
+**Why it fits:** matches on rag, sql, api.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
