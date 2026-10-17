@@ -1,12 +1,20 @@
-# Remote job brief — 2026-10-16
+# Remote job brief — 2026-10-17
 
-**1** new match from 229 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 224 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Analytics Engineer, Data](https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data) — Tailscale
+### 1. [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) — AlgaeCal
 
-`We Work Remotely` · posted 16d ago · Anywhere in the World · match score 27
+`RemoteOK` · posted 1d ago · Vancouver · match score 62
 
-**Why it fits:** matches on rag, sql, api.
+**Why it fits:** matches on rag, machine learning, data science, data scientist, python.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [Legal Ops](https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops) — Hex Technologies
+
+`We Work Remotely` · posted 16d ago · Anywhere in the World · match score 18
+
+**Why it fits:** matches on llm.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
