@@ -1,38 +1,8 @@
-# Remote job brief — 2026-10-18
+# Remote job brief — 2026-10-19
 
-**4** new matches from 222 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 215 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [APAC Python](https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534) — Kodland
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 18
-
-**Why it fits:** matches on python, git.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
-
-### 2. [Web Designer, eCRM](https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1) — Humane World for Animals
-
-`We Work Remotely` · posted 15d ago · Anywhere in the World · match score 16
-
-**Why it fits:** matches on sql, git.
-
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
-
-### 3. [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) — Askable
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 14
-
-**Why it fits:** matches on python, c++, git.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
-
-### 4. [Graduate Transport Planner](https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542) — Curtins
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 12
-
-**Why it fits:** matches on rest.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
