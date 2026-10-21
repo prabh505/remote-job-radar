@@ -1,8 +1,38 @@
-# Remote job brief — 2026-10-20
+# Remote job brief — 2026-10-21
 
-**0** new matches from 210 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**4** new matches from 214 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Quality Assurance Rater - Spanish speakers in Spain](https://www.workingnomads.com/job/go/1957823/) — TELUS Digital
+
+`Working Nomads` · posted today · Global · match score 20
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+
+### 2. [Quality Assurance Rater - French speakers in France](https://www.workingnomads.com/job/go/1957803/) — TELUS Digital
+
+`Working Nomads` · posted today · Global · match score 20
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+
+### 3. [Quality Assurance Rater - German speakers in Germany](https://www.workingnomads.com/job/go/1957776/) — TELUS Digital
+
+`Working Nomads` · posted today · Global · match score 20
+
+**Why it fits:** matches on machine learning, git.
+
+**Tailoring note:** Lead with the Kaggle record — Notebooks Expert (top 2.5%), 4th of 371 teams on SPR 2026, 12th of 4,540 on WiDS. Competition placings beat listing frameworks.
+
+### 4. [Junior Backend Engineer](https://jobspresso.co/job/junior-backend-engineer/) — Unknown
+
+`Jobspresso` · posted today · location unspecified · match score 18
+
+**Why it fits:** matches on backend.
+
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
 
 ---
 
