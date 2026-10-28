@@ -1,8 +1,14 @@
-# Remote job brief — 2026-10-27
+# Remote job brief — 2026-10-28
 
-**0** new matches from 210 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 215 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Machine Learning Engineer](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer) — Jumio
+
+`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 92
+
+**Why it fits:** matches on rag, computer vision, machine learning, tensorflow, pytorch.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
