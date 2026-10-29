@@ -1,14 +1,14 @@
-# Remote job brief — 2026-10-28
+# Remote job brief — 2026-10-29
 
-**1** new match from 215 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 219 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Machine Learning Engineer](https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer) — Jumio
+### 1. [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) — Typeform
 
-`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 92
+`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 45
 
-**Why it fits:** matches on rag, computer vision, machine learning, tensorflow, pytorch.
+**Why it fits:** matches on next.js, node.js, full stack, react, backend.
 
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
 
 ---
 
