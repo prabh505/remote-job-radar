@@ -1,14 +1,22 @@
-# Remote job brief — 2026-10-29
+# Remote job brief — 2026-10-30
 
-**1** new match from 219 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 217 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Full Stack Developer](https://weworkremotely.com/remote-jobs/typeform-full-stack-developer) — Typeform
+### 1. [Backend / Platform Developer Consultant (Temporal & Kubernetes)](https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes) — Bitovi
 
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 45
+`We Work Remotely` · posted today · Anywhere in the World · match score 28
 
-**Why it fits:** matches on next.js, node.js, full stack, react, backend.
+**Why it fits:** matches on python, backend, git, api.
 
 **Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
+
+### 2. [Graduate Leadership Programme](https://jobspresso.co/job/graduate-leadership-programme/) — Unknown
+
+`Jobspresso` · posted today · location unspecified · match score 12
+
+**Why it fits:** matches on git.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
