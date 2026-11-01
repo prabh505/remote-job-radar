@@ -1,14 +1,8 @@
-# Remote job brief — 2026-10-31
+# Remote job brief — 2026-11-01
 
-**1** new match from 221 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 216 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Backend Product Software Engineer](https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer) — Dropbox
-
-`We Work Remotely` · posted today · Anywhere in the World · match score 37
-
-**Why it fits:** matches on python, sql, full-stack, backend, api.
-
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
