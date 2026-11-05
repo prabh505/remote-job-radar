@@ -1,14 +1,30 @@
-# Remote job brief — 2026-11-04
+# Remote job brief — 2026-11-05
 
-**1** new match from 212 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**3** new matches from 211 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Software Engineer, AI Coding Tasks (Contract)](https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract) — Askable
+### 1. [Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680) — Destination Careers
 
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 22
+`RemoteOK` · posted 1d ago · South Carolina · match score 23
 
-**Why it fits:** matches on python, c++, git.
+**Why it fits:** matches on rag, rest.
 
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677) — Vogel
+
+`RemoteOK` · posted 1d ago · MÃ¼nchen · match score 23
+
+**Why it fits:** matches on rag, api.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 3. [Global Alliance Lead, Capgemini](https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini) — Fivetran
+
+`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 19
+
+**Why it fits:** matches on rag.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
