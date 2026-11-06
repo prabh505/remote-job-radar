@@ -1,28 +1,20 @@
-# Remote job brief — 2026-11-05
+# Remote job brief — 2026-11-06
 
-**3** new matches from 211 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 216 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680) — Destination Careers
+### 1. [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) — Claims
 
-`RemoteOK` · posted 1d ago · South Carolina · match score 23
+`RemoteOK` · posted 1d ago · location unspecified · match score 44
 
-**Why it fits:** matches on rag, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677) — Vogel
-
-`RemoteOK` · posted 1d ago · MÃ¼nchen · match score 23
-
-**Why it fits:** matches on rag, api.
+**Why it fits:** matches on rag, machine learning, python, full-stack, backend.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
-### 3. [Global Alliance Lead, Capgemini](https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini) — Fivetran
+### 2. [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) — Coalition Technologies
 
-`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 19
+`Remotive` · posted 3d ago · Worldwide · match score 21
 
-**Why it fits:** matches on rag.
+**Why it fits:** matches on rag, git.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
