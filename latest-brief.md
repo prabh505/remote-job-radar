@@ -1,20 +1,12 @@
-# Remote job brief — 2026-11-06
+# Remote job brief — 2026-11-07
 
-**2** new matches from 216 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 215 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) — Claims
+### 1. [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) — Toptal
 
-`RemoteOK` · posted 1d ago · location unspecified · match score 44
+`RemoteOK` · posted 1d ago · Anywhere in the World · match score 49
 
-**Why it fits:** matches on rag, machine learning, python, full-stack, backend.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) — Coalition Technologies
-
-`Remotive` · posted 3d ago · Worldwide · match score 21
-
-**Why it fits:** matches on rag, git.
+**Why it fits:** matches on llm, pytorch, python, api, git.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
