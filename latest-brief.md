@@ -1,14 +1,22 @@
-# Remote job brief — 2026-11-07
+# Remote job brief — 2026-11-08
 
-**1** new match from 215 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 200 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) — Toptal
+### 1. [US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168) — VXI Global Solutions
 
-`RemoteOK` · posted 1d ago · Anywhere in the World · match score 49
+`Remotive` · posted 2d ago · USA · match score 23
 
-**Why it fits:** matches on llm, pytorch, python, api, git.
+**Why it fits:** matches on rag, llm, rest.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [Junior Market Analyst](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700) — MEYA HOLDINGS
+
+`RemoteOK` · posted 1d ago · location unspecified · match score 14
+
+**Why it fits:** matches on git, rest.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
