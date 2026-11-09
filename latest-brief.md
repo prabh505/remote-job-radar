@@ -1,22 +1,8 @@
-# Remote job brief — 2026-11-08
+# Remote job brief — 2026-11-09
 
-**2** new matches from 200 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 201 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168) — VXI Global Solutions
-
-`Remotive` · posted 2d ago · USA · match score 23
-
-**Why it fits:** matches on rag, llm, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Junior Market Analyst](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700) — MEYA HOLDINGS
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 14
-
-**Why it fits:** matches on git, rest.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
