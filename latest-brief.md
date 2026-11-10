@@ -1,8 +1,30 @@
-# Remote job brief — 2026-11-09
+# Remote job brief — 2026-11-10
 
-**0** new matches from 201 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**3** new matches from 221 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Data Analyst (No Experience Required) - Japanese and English](https://www.workingnomads.com/job/go/2007849/) — Peroptyx
+
+`Working Nomads` · posted today · Japan - Remote · match score 16
+
+**Why it fits:** matches on data analyst, git.
+
+**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
+
+### 2. [Data Analyst (No Experience Required)](https://www.workingnomads.com/job/go/2007847/) — Peroptyx
+
+`Working Nomads` · posted today · Canada · match score 16
+
+**Why it fits:** matches on data analyst, git.
+
+**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
+
+### 3. [UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704) — RainFocus
+
+`RemoteOK` · posted 1d ago · Any State · match score 12
+
+**Why it fits:** matches on backend, react, git, api.
+
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
 
 ---
 
