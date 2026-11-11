@@ -1,30 +1,22 @@
-# Remote job brief — 2026-11-10
+# Remote job brief — 2026-11-11
 
-**3** new matches from 221 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**2** new matches from 223 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Data Analyst (No Experience Required) - Japanese and English](https://www.workingnomads.com/job/go/2007849/) — Peroptyx
+### 1. [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) — Extend Your Team
 
-`Working Nomads` · posted today · Japan - Remote · match score 16
+`RemoteOK` · posted 1d ago · location unspecified · match score 27
 
-**Why it fits:** matches on data analyst, git.
+**Why it fits:** matches on rag, llm, c++, api.
 
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
-### 2. [Data Analyst (No Experience Required)](https://www.workingnomads.com/job/go/2007847/) — Peroptyx
+### 2. [Telehealth Endocrinologist Evenings Fridays and or Weekends](https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709) — Allara
 
-`Working Nomads` · posted today · Canada · match score 16
+`RemoteOK` · posted 1d ago · location unspecified · match score 15
 
-**Why it fits:** matches on data analyst, git.
+**Why it fits:** matches on rag, git, rest.
 
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
-
-### 3. [UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704) — RainFocus
-
-`RemoteOK` · posted 1d ago · Any State · match score 12
-
-**Why it fits:** matches on backend, react, git, api.
-
-**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
