@@ -1,20 +1,12 @@
-# Remote job brief — 2026-11-11
+# Remote job brief — 2026-11-12
 
-**2** new matches from 223 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 224 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) — Extend Your Team
+### 1. [Patient Care Specialist I](https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719) — Boston Scientific
 
-`RemoteOK` · posted 1d ago · location unspecified · match score 27
+`RemoteOK` · posted 1d ago · location unspecified · match score 13
 
-**Why it fits:** matches on rag, llm, c++, api.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Telehealth Endocrinologist Evenings Fridays and or Weekends](https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709) — Allara
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 15
-
-**Why it fits:** matches on rag, git, rest.
+**Why it fits:** matches on rag, rest.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
