@@ -1,14 +1,8 @@
-# Remote job brief — 2026-11-12
+# Remote job brief — 2026-11-13
 
-**1** new match from 224 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 223 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Patient Care Specialist I](https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719) — Boston Scientific
-
-`RemoteOK` · posted 1d ago · location unspecified · match score 13
-
-**Why it fits:** matches on rag, rest.
-
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
