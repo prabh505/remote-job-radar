@@ -1,8 +1,14 @@
-# Remote job brief — 2026-11-13
+# Remote job brief — 2026-11-14
 
-**0** new matches from 223 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 228 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Freelance Question Reviewers](https://remoteOK.com/remote-jobs/remote-freelance-question-reviewers-amboss-1137791) — AMBOSS
+
+`RemoteOK` · posted 1d ago · New York · match score 21
+
+**Why it fits:** matches on rag, llm.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
