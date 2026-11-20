@@ -1,22 +1,8 @@
-# Remote job brief — 2026-11-19
+# Remote job brief — 2026-11-20
 
-**2** new matches from 227 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**0** new matches from 221 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Backend Engineer, Knowledge Graph](https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph) — GitLab
-
-`We Work Remotely` · posted 19d ago · Anywhere in the World · match score 22
-
-**Why it fits:** matches on backend, api, git, rest.
-
-**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
-
-### 2. [Junior Software Engineer](https://jobspresso.co/job/junior-software-engineer/) — Unknown
-
-`Jobspresso` · posted today · location unspecified · match score 12
-
-**Why it fits:** matches on git.
-
-**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
 
 ---
 
