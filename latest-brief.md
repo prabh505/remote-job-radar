@@ -1,8 +1,38 @@
-# Remote job brief — 2026-11-20
+# Remote job brief — 2026-11-21
 
-**0** new matches from 221 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**4** new matches from 226 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-Nothing cleared the bar today. That is a real result, not a failure — the filters reject senior roles, US-authorization-only postings, and anything older than three weeks. Thin days happen, especially over weekends.
+### 1. [Infrastructure Software Engineer](https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857) — Dropbox
+
+`RemoteOK` · posted 1d ago · North America · match score 39
+
+**Why it fits:** matches on rag, llm, python, backend, c++.
+
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+
+### 2. [Postdoc PhD PhD cand. Physics Computer Science](https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837) — NIKI Digital Engineering
+
+`RemoteOK` · posted 1d ago · location unspecified · match score 17
+
+**Why it fits:** matches on python, c++, matlab, git.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+
+### 3. [Engineer Software Defined Vehicle Simulation and Development](https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839) — NIKI Digital Engineering
+
+`RemoteOK` · posted 1d ago · location unspecified · match score 15
+
+**Why it fits:** matches on python, matlab, rest, git.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
+
+### 4. [Research Intern, ClickHouse Labs](https://jobspresso.co/job/research-intern-clickhouse-labs/) — Unknown
+
+`Jobspresso` · posted today · location unspecified · match score 12
+
+**Why it fits:** matches on rest.
+
+**Tailoring note:** Open with Amazon ML Summer School 2026 selection (top 3,000 of 130,000+) — it is the fastest credential to establish you clear a high screening bar.
 
 ---
 
