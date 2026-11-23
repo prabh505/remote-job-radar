@@ -1,22 +1,14 @@
-# Remote job brief — 2026-11-22
+# Remote job brief — 2026-11-23
 
-**2** new matches from 231 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 237 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Backend Engineer (Python),AI Engineering: Agent Foundations](https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations) — GitLab
+### 1. [ML Inference Engineer – Terminal-Bench Task Designer](https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer) — Toptal
 
-`We Work Remotely` · posted today · Anywhere in the World · match score 59
+`We Work Remotely` · posted 18d ago · Anywhere in the World · match score 39
 
-**Why it fits:** matches on langchain, llm, python, backend, api.
+**Why it fits:** matches on llm, pytorch, python, git, api.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
-
-### 2. [Backend Engineer (Ruby), AI Engineering: AI Catalog](https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog) — GitLab
-
-`We Work Remotely` · posted today · Anywhere in the World · match score 36
-
-**Why it fits:** matches on python, sql, backend, api, git.
-
-**Tailoring note:** Lead with the SQL Q&A Chain project — natural language to executable SQL with read-only guardrails. It shows judgment, not just querying.
 
 ---
 
