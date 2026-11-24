@@ -1,12 +1,12 @@
-# Remote job brief — 2026-11-23
+# Remote job brief — 2026-11-24
 
-**1** new match from 237 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 235 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [ML Inference Engineer – Terminal-Bench Task Designer](https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer) — Toptal
+### 1. [Backend Engineer, Developer & End-user Experience Platform](https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform) — Stripe
 
-`We Work Remotely` · posted 18d ago · Anywhere in the World · match score 39
+`We Work Remotely` · posted today · Anywhere in the World · match score 31
 
-**Why it fits:** matches on llm, pytorch, python, git, api.
+**Why it fits:** matches on rag, backend, api, rest.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
