@@ -1,12 +1,12 @@
-# Remote job brief — 2026-11-24
+# Remote job brief — 2026-11-25
 
-**1** new match from 235 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 237 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Backend Engineer, Developer & End-user Experience Platform](https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform) — Stripe
+### 1. [Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081) — Augment
 
-`We Work Remotely` · posted today · Anywhere in the World · match score 31
+`RemoteOK` · posted 1d ago · location unspecified · match score 17
 
-**Why it fits:** matches on rag, backend, api, rest.
+**Why it fits:** matches on rag, sql.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
