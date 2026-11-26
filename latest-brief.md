@@ -1,12 +1,12 @@
-# Remote job brief — 2026-11-25
+# Remote job brief — 2026-11-26
 
-**1** new match from 237 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 247 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081) — Augment
+### 1. [Lakebase Sales Specialist, Nordics](https://weworkremotely.com/remote-jobs/databricks-lakebase-sales-specialist-nordics) — Databricks
 
-`RemoteOK` · posted 1d ago · location unspecified · match score 17
+`We Work Remotely` · posted today · Anywhere in the World · match score 19
 
-**Why it fits:** matches on rag, sql.
+**Why it fits:** matches on rag.
 
 **Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
