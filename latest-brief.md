@@ -1,14 +1,14 @@
-# Remote job brief — 2026-11-26
+# Remote job brief — 2026-11-27
 
-**1** new match from 247 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 249 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Lakebase Sales Specialist, Nordics](https://weworkremotely.com/remote-jobs/databricks-lakebase-sales-specialist-nordics) — Databricks
+### 1. [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) — OpenTrain AI
 
-`We Work Remotely` · posted today · Anywhere in the World · match score 19
+`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 20
 
-**Why it fits:** matches on rag.
+**Why it fits:** matches on full-stack, api.
 
-**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
+**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
 
 ---
 
