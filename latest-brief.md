@@ -1,14 +1,14 @@
-# Remote job brief — 2026-11-27
+# Remote job brief — 2026-11-28
 
-**1** new match from 249 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
+**1** new match from 246 postings across 6 boards. [LinkedIn](https://www.linkedin.com/in/prabhpreet-singh-749b64322/) · [GitHub](https://github.com/prabh505)
 
-### 1. [Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer) — OpenTrain AI
+### 1. [Cloud Systems Administrator](https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator) — OneImaging
 
-`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 20
+`We Work Remotely` · posted 20d ago · Anywhere in the World · match score 30
 
-**Why it fits:** matches on full-stack, api.
+**Why it fits:** matches on llm, python, rest, api.
 
-**Tailoring note:** Lead with the CoDSAI learning portal — Next.js and Node.js, built and deployed end-to-end on Vercel with course management and certificate generation.
+**Tailoring note:** Lead with the CoDSAI RAG pipeline — custom chunking, vector semantic search, Groq/LLaMA inference at ~2s. Name the latency number; it's concrete.
 
 ---
 
